@@ -1,0 +1,229 @@
+﻿.container {
+    display: grid;
+    grid-template-columns: repeat(6, 1r);  
+    max-width: 1000px;
+   position: relative;
+}
+
+section.all-grid-items.grid-item-1 {
+    background-color: #3B405A;
+    grid-column: 1 / span 6;
+    height: 60px;
+}
+
+ul {
+    margin-bottom: 40px;
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    font-family: "Forum", cursive;
+    text-decoration: none;
+    color: white;
+    margin-right: 25px;
+}
+
+#logo {
+    font-size: 25px;
+    margin-right: 50%;
+}
+
+section.all-grid-items.grid-item-2 {
+    grid-column: 1 / span 4;
+    height: 350px;
+}
+
+section.all-grid-items.grid-item-3 {
+    height: 350px;
+
+}
+
+img#saint-anna {
+    width: 900px;
+    height: 350px;
+}
+
+img#versilia-img {
+    width: 444px;
+    height: 350px;
+}
+
+section.all-grid-items.grid-item-4 {
+    grid-column: 1 / span 6;
+    background-color: #3B405A;
+    height: 200px;
+}
+
+#white-location-text {
+    color: white;
+    font-family: "Forum", cursive;
+    font-size: 25px;
+    margin-left: 45%;
+    margin-top: 80px;
+}
+
+#some-places-text {
+    color: white;
+    font-family: "Forum", cursive;
+    margin-left: 44%;
+}
+
+section.all-grid-items.grid-item-5 {
+    grid-column: 1 / span 3;
+}
+
+p.location-blue-text {
+    font-family: "Forum", cursive;
+    color: #3B405A;
+    font-size: 25px;
+    margin-left: 40px;
+    margin-top: 80px;
+}
+
+p.blue-p-text {
+    font-family: "Forum", cursive;
+    color: #3B405A;
+    margin-left: 40px;
+}
+
+button.blue-button {
+    color: white;
+    background-color: #3B405A;
+    border-color: #3B405A;
+    margin-left: 40px;
+}
+
+section.all-grid-items.grid-item-6 {
+    grid-column: 4 / span 6;
+}
+
+#mountain-villa {
+    width: 350px;
+    margin-top: 45px;
+    margin-left: 100px;
+}
+
+section.all-grid-items.grid-item-7 {
+    background-color: #3B405A;
+    grid-column: 1 / span 6;
+    margin-top: 50px;
+    height: 300px;
+}
+
+img#modern-villa-img {
+    width: 400px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+div.location-2-info {
+    width: 394px;
+    float: right;
+    margin-top: 50px;
+    margin-right: 200px;
+}
+
+p.location-white-text {
+    color: white;
+    font-family: "Forum", cursive;
+    font-size: 25px;
+}
+
+p.white-p-text {
+    color: white;
+    font-family: "Forum", cursive;
+}
+
+section.all-grid-items.grid-item-8 {
+    grid-column: 1 / span 3;
+}
+
+section.all-grid-items.grid-item-9 {
+    grid-column: 4 / span 6;
+}
+
+section.all-grid-items.grid-item-10 {
+    grid-column: 1 / span 6;
+    background-color: #3B405A;
+}
+
+img#grape-field-img {
+    width: 350px;
+    margin-top: 50px;
+    margin-left: 80px;
+    margin-bottom: 80px;
+}
+
+p.location-white-text{
+    text-align: center
+}
+
+p.white-p-text {
+    text-align: center;
+}
+
+section.all-grid-items.grid-item-11 {
+    grid-column: 1 / span 6;
+    background-color: #3B405A;
+    margin-top: 100px;
+}
+
+section.all-grid-items.grid-item-13 {
+    grid-column: 1 / span 6;
+    background-color: #3B405A;
+    margin-top: 50px;
+    height: 150px;
+}
+
+section.all-grid-items.grid-item-14 {
+    grid-column: 1 / span 2;
+    margin-top: 50px;
+}
+
+i.material-icons {
+    color: #3B405A;
+    font-size: 15px;
+    margin-left: 37px;
+}
+
+section.all-grid-items.grid-item-15 {
+    grid-column: 3 / span 6;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: vertical;
+}
+
+form {
+    width: 800px;
+    margin-left: 90px;
+    margin-top: 50px;
+}
+
+section.all-grid-items.grid-item-16 {
+    grid-column: 1 / span 6;
+    margin-top: 40px;
+    height: 200px;
+    background-color: #3B405A;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
